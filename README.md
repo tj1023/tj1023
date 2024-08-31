@@ -1,11 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=tj's GitHub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=tj's%20GitHub&fontSize=90&width=1)
+
+<div align="center">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=htj1023)](https://solved.ac/htj1023)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=htj1023&theme=cold)
 
+![](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/fac62fab5a594252ac7ec9c3ece0df06)
+
+</div>
 
 
 <!--
